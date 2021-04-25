@@ -1,6 +1,6 @@
 # Udacity Sensor Fusion Engineer Nanodegree.
 ## Lidar module.
-this repository contains the solutions of all the assignments and the quiz plus the solution of the project of the lidar module implemented using the **PCL library function**.
+this repository contains the solutions of all the assignments and the quiz plus the solution of the project of the lidar module implemented using the **PCL library functions**.
 
 ---
 ## Minimum prerequisites.
